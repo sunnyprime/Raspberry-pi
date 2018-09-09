@@ -9,3 +9,5 @@ Raspberrypi basic installation,static ip creatrion and apache server creations
 2. Put memory card in raspberry Pi .
 
 3. Follow The Simple Steps.
+
+![RPI](https://github.com/sunnyprime/Raspberry-pi/blob/master/91zSu44%2B34L._SX569_.jpg)
