@@ -32,3 +32,6 @@ for x in range(0,5):
     time.sleep(10)
 GPIO.cleanup()
 print("Stopped")
+```
+
+## Rest is on the Process...
